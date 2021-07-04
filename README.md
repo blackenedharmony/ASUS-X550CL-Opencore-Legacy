@@ -4,7 +4,7 @@ Full EFI folder without the recovery images to get Opencore Mojave working on th
 # Keep in mind, this is experimental!
 
 ## What works:
-- Display
+- Display & brightness
 - Sound & microphone
 - Battery percentage
 - Trackpad
