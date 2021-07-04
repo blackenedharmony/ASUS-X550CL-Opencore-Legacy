@@ -19,7 +19,7 @@ Full EFI folder without the recovery images to get Opencore Mojave working on th
 - Wake from sleep
 - Your CPU fan might run at full speed sometimes.
 
-## How to install:
+How to install:
 - Clone the repo and extract the EFI folder into your USB's root directory.
 - If you need just the kexts, remember to snapshot your config.plist.
 - If you need just the plist, remember to adjust your kexts accordingly.
