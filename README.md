@@ -5,9 +5,12 @@ Full EFI folder without the recovery images to get Opencore Mojave working on th
 
 ## What works:
 - Display
-- Sound
+- Sound & microphone
 - Battery percentage
 - Trackpad
+- WiFi (Atheros AR9285)
+- Ethernet
+- Trackpad gestures
 
 ## What is dependent on the user:
 - Since the stock Mediatek MT7630e Wi-Fi card that ships with the laptop doesn't work with macOS, I replaced my card with a cheap Atheros AR9285.
