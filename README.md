@@ -18,3 +18,23 @@ Full EFI folder without the recovery images to get Opencore Mojave working on th
 - The stock Wi-Fi card, as mentioned above.
 - Wake from sleep
 - Your CPU fan might run at full speed sometimes.
+
+## How to install:
+- Clone the repo and extract the EFI folder into your USB's root directory.
+- If you need just the kexts, remember to snapshot your config.plist.
+- If you need just the plist, remember to adjust your kexts accordingly.
+
+## Included kexts:
+- AirportAtheros40
+- AppleHDADisabler
+- AtherosWiFiInjector
+- ECEnabler
+- HibernationFixup (might not be functional sometimes)
+- HS80211Family
+- Lilu
+- RealtekRTL8111
+- VirtualSMC and SMC kexts for laptops
+- USBInjectAll
+- VoodooHDA
+- Voodoo trackpad kexts
+- WhateverGreen
