@@ -21,6 +21,7 @@ Full EFI folder without the recovery images to get Opencore Mojave working on th
 - The stock Wi-Fi card, as mentioned above.
 - Wake from sleep
 - Your CPU fan might run at full speed sometimes.
+- I haven't attempted to get iMessage and FaceTime working yet.
 
 How to install:
 - Clone the repo and extract the EFI folder into your USB's root directory.
